@@ -56,7 +56,7 @@ Visualization Manager:
       Frame Timeout: 15
       Frames:
         All Enabled: false
-        uav/camera/center:
+        uav/camera/left:
           Value: false
         uav/imu:
           Value: true
@@ -72,7 +72,7 @@ Visualization Manager:
       Tree:
         world:
           uav/imu:
-            uav/camera/center:
+            uav/camera/left:
               {}
           world/ned:
             {}
